@@ -11,7 +11,7 @@
 
   <img src="https://github.com/KIMGEUNDU/React-Deep-Dive/assets/126174401/23e39551-6d8b-4832-8dcc-56f813441223" width=500 />  
   
-  <a href="https://react-ko.dev/" >리액트 공식 문서 한글 번역 사이트</a>
+  <a href="https://react-ko.dev/" >리액트 공식 문서 한글 번역 사이트</a>  
   🗓️ 기간 : 2023년 11월 17일 ~ 2024년 4월 11일
 </div>
 
